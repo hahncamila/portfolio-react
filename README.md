@@ -1,1 +1,1 @@
-Nesse projeto, utilizei React e Boostrap. Está disponível no seguinte link: https://portfolio-camila-hahn.vercel.app/
+Nesse projeto, utilizei React e Bootstrap. Está disponível no seguinte link: https://portfolio-camila-hahn.vercel.app/
