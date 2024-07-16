@@ -1,0 +1,20 @@
+.btn{
+    background-color: rgba(1, 9, 28, 0.75);
+    border: aliceblue solid 0.5px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: aliceblue;
+    margin-top: 30px;
+    width: 300px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    transform: translate(-7px);
+    transition-duration: 0.5s;
+    color: rgb(1, 9, 28);
+    background-color: aliceblue;
+    border: rgb(1, 9, 28);
+}
